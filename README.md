@@ -1,1 +1,1 @@
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![Alt text](laptop_top.jpg "Optional title")
